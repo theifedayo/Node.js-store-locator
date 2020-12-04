@@ -35,4 +35,4 @@ async function addStore(e){
 }
 
 
-storeForm.addEventListener('submit', addStore)
+storeForm.addEventListener('submit', addStore) //where is the submit event youre listening to?
